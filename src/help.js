@@ -1,11 +1,7 @@
 const help = (prefix) => {
 	return `
 ┏━━❉ *About Bot* ❉━━┓
-┣⊱ *${prefix}owner*
-┣⊱ *${prefix}donasi*
-┣⊱ *${prefix}info*
-┣⊱ *${prefix}botstat*
-┣⊱ *${prefix}bug*
+┣⊱Ketzakot
 ┣━━❀ *Maker* ❀━━
 ┣⊱ *${prefix}ocr*
 ┣⊱ *${prefix}sticker*
@@ -84,7 +80,7 @@ const help = (prefix) => {
 ┣⊱ *${prefix}setpp*
 ┣⊱ *${prefix}setprefix*
 ┣━━━━━━━━━━━━━━
-┃    *BOT BY AFFIS*
+┃    *BOT BY KETZAKOT XD*
 ┗━━━━━━━━━━━━━━
 
 `
